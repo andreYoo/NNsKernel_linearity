@@ -1,2 +1,2 @@
-# NNsKernel_linearity
-Neural Network Kernel Linearity
+# weight_separability_boosting
+weight_separability_boosting_for_NNs
